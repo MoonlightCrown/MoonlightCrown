@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>�ҵĵ�һƪ����</title>
+    <title>我的第一篇博客</title>
     <url>/2019/10/17/article/</url>
-    <content><![CDATA[<p>###�ǳ�����</p>
-<p>��ӭ�����ҵĲ��ͣ������Լ��Ĳ��ͺܾ��ˣ�������������Լ���СĿ������</p>
+    <content><![CDATA[<p>###非常开心</p>
+<p>欢迎来到我的博客，想做自己的博客很久了，今天终于完成自己的小目标啦！！！</p>
 ]]></content>
       <categories>
-        <category>����1</category>
-        <category>����2</category>
+        <category>分类1</category>
+        <category>分类2</category>
       </categories>
       <tags>
-        <tag>��ǩ1</tag>
-        <tag>��ǩ2</tag>
+        <tag>标签1</tag>
+        <tag>标签2</tag>
       </tags>
   </entry>
 </search>
