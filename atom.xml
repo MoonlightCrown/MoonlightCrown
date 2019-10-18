@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-17T13:47:43.460Z</updated>
+  <updated>2019-10-18T09:15:58.612Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>我的第二篇博客</title>
+    <link href="http://yoursite.com/2019/10/18/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/10/18/我的第二篇博客/</id>
+    <published>2019-10-18T09:10:42.000Z</published>
+    <updated>2019-10-18T09:15:58.612Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/.com//f.png" alt="f"><br><img src="/.com//t.jpg" alt="t"><br>测试一下图片功能，展示下我的符华和德丽莎老婆</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/.com//f.png&quot; alt=&quot;f&quot;&gt;&lt;br&gt;&lt;img src=&quot;/.com//t.jpg&quot; alt=&quot;t&quot;&gt;&lt;br&gt;测试一下图片功能，展示下我的符华和德丽莎老婆&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="http://yoursite.com/2019/10/17/article/"/>
     <id>http://yoursite.com/2019/10/17/article/</id>
     <published>2019-10-17T08:50:00.000Z</published>
-    <updated>2019-10-17T13:47:43.460Z</updated>
+    <updated>2019-10-18T09:16:10.176Z</updated>
     
     <content type="html"><![CDATA[<p>###非常开心</p><p>欢迎来到我的博客，想做自己的博客很久了，今天终于完成自己的小目标啦！！！</p>]]></content>
     
